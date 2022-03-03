@@ -1,0 +1,12 @@
+C:\Users\Ratul\Desktop\CwkSocial-main\CwkSocial-main\CwkSocial\Cwk.Domain\bin\Debug\net6.0\Cwk.Domain.deps.json
+C:\Users\Ratul\Desktop\CwkSocial-main\CwkSocial-main\CwkSocial\Cwk.Domain\bin\Debug\net6.0\Cwk.Domain.dll
+C:\Users\Ratul\Desktop\CwkSocial-main\CwkSocial-main\CwkSocial\Cwk.Domain\bin\Debug\net6.0\ref\Cwk.Domain.dll
+C:\Users\Ratul\Desktop\CwkSocial-main\CwkSocial-main\CwkSocial\Cwk.Domain\bin\Debug\net6.0\Cwk.Domain.pdb
+C:\Users\Ratul\Desktop\CwkSocial-main\CwkSocial-main\CwkSocial\Cwk.Domain\obj\Debug\net6.0\Cwk.Domain.csproj.AssemblyReference.cache
+C:\Users\Ratul\Desktop\CwkSocial-main\CwkSocial-main\CwkSocial\Cwk.Domain\obj\Debug\net6.0\Cwk.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ratul\Desktop\CwkSocial-main\CwkSocial-main\CwkSocial\Cwk.Domain\obj\Debug\net6.0\Cwk.Domain.AssemblyInfoInputs.cache
+C:\Users\Ratul\Desktop\CwkSocial-main\CwkSocial-main\CwkSocial\Cwk.Domain\obj\Debug\net6.0\Cwk.Domain.AssemblyInfo.cs
+C:\Users\Ratul\Desktop\CwkSocial-main\CwkSocial-main\CwkSocial\Cwk.Domain\obj\Debug\net6.0\Cwk.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ratul\Desktop\CwkSocial-main\CwkSocial-main\CwkSocial\Cwk.Domain\obj\Debug\net6.0\Cwk.Domain.dll
+C:\Users\Ratul\Desktop\CwkSocial-main\CwkSocial-main\CwkSocial\Cwk.Domain\obj\Debug\net6.0\ref\Cwk.Domain.dll
+C:\Users\Ratul\Desktop\CwkSocial-main\CwkSocial-main\CwkSocial\Cwk.Domain\obj\Debug\net6.0\Cwk.Domain.pdb

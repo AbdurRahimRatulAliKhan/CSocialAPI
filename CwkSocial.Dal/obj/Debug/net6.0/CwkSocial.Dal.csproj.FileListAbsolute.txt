@@ -1,0 +1,17 @@
+C:\Users\Ratul\Desktop\CwkSocial-main\CwkSocial-main\CwkSocial\CwkSocial.Dal\bin\Debug\net6.0\CwkSocial.Dal.deps.json
+C:\Users\Ratul\Desktop\CwkSocial-main\CwkSocial-main\CwkSocial\CwkSocial.Dal\bin\Debug\net6.0\CwkSocial.Dal.runtimeconfig.json
+C:\Users\Ratul\Desktop\CwkSocial-main\CwkSocial-main\CwkSocial\CwkSocial.Dal\bin\Debug\net6.0\CwkSocial.Dal.dll
+C:\Users\Ratul\Desktop\CwkSocial-main\CwkSocial-main\CwkSocial\CwkSocial.Dal\bin\Debug\net6.0\ref\CwkSocial.Dal.dll
+C:\Users\Ratul\Desktop\CwkSocial-main\CwkSocial-main\CwkSocial\CwkSocial.Dal\bin\Debug\net6.0\CwkSocial.Dal.pdb
+C:\Users\Ratul\Desktop\CwkSocial-main\CwkSocial-main\CwkSocial\CwkSocial.Dal\bin\Debug\net6.0\Cwk.Domain.dll
+C:\Users\Ratul\Desktop\CwkSocial-main\CwkSocial-main\CwkSocial\CwkSocial.Dal\bin\Debug\net6.0\Cwk.Domain.pdb
+C:\Users\Ratul\Desktop\CwkSocial-main\CwkSocial-main\CwkSocial\CwkSocial.Dal\obj\Debug\net6.0\CwkSocial.Dal.csproj.AssemblyReference.cache
+C:\Users\Ratul\Desktop\CwkSocial-main\CwkSocial-main\CwkSocial\CwkSocial.Dal\obj\Debug\net6.0\CwkSocial.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ratul\Desktop\CwkSocial-main\CwkSocial-main\CwkSocial\CwkSocial.Dal\obj\Debug\net6.0\CwkSocial.Dal.AssemblyInfoInputs.cache
+C:\Users\Ratul\Desktop\CwkSocial-main\CwkSocial-main\CwkSocial\CwkSocial.Dal\obj\Debug\net6.0\CwkSocial.Dal.AssemblyInfo.cs
+C:\Users\Ratul\Desktop\CwkSocial-main\CwkSocial-main\CwkSocial\CwkSocial.Dal\obj\Debug\net6.0\CwkSocial.Dal.csproj.CoreCompileInputs.cache
+C:\Users\Ratul\Desktop\CwkSocial-main\CwkSocial-main\CwkSocial\CwkSocial.Dal\obj\Debug\net6.0\CwkSocial.Dal.csproj.CopyComplete
+C:\Users\Ratul\Desktop\CwkSocial-main\CwkSocial-main\CwkSocial\CwkSocial.Dal\obj\Debug\net6.0\CwkSocial.Dal.dll
+C:\Users\Ratul\Desktop\CwkSocial-main\CwkSocial-main\CwkSocial\CwkSocial.Dal\obj\Debug\net6.0\ref\CwkSocial.Dal.dll
+C:\Users\Ratul\Desktop\CwkSocial-main\CwkSocial-main\CwkSocial\CwkSocial.Dal\obj\Debug\net6.0\CwkSocial.Dal.pdb
+C:\Users\Ratul\Desktop\CwkSocial-main\CwkSocial-main\CwkSocial\CwkSocial.Dal\obj\Debug\net6.0\CwkSocial.Dal.genruntimeconfig.cache

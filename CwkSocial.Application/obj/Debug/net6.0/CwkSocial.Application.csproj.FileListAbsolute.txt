@@ -1,0 +1,17 @@
+C:\Users\Ratul\Desktop\CwkSocial-main\CwkSocial-main\CwkSocial\CwkSocial.Application\bin\Debug\net6.0\CwkSocial.Application.deps.json
+C:\Users\Ratul\Desktop\CwkSocial-main\CwkSocial-main\CwkSocial\CwkSocial.Application\bin\Debug\net6.0\CwkSocial.Application.dll
+C:\Users\Ratul\Desktop\CwkSocial-main\CwkSocial-main\CwkSocial\CwkSocial.Application\bin\Debug\net6.0\ref\CwkSocial.Application.dll
+C:\Users\Ratul\Desktop\CwkSocial-main\CwkSocial-main\CwkSocial\CwkSocial.Application\bin\Debug\net6.0\CwkSocial.Application.pdb
+C:\Users\Ratul\Desktop\CwkSocial-main\CwkSocial-main\CwkSocial\CwkSocial.Application\bin\Debug\net6.0\Cwk.Domain.dll
+C:\Users\Ratul\Desktop\CwkSocial-main\CwkSocial-main\CwkSocial\CwkSocial.Application\bin\Debug\net6.0\CwkSocial.Dal.dll
+C:\Users\Ratul\Desktop\CwkSocial-main\CwkSocial-main\CwkSocial\CwkSocial.Application\bin\Debug\net6.0\Cwk.Domain.pdb
+C:\Users\Ratul\Desktop\CwkSocial-main\CwkSocial-main\CwkSocial\CwkSocial.Application\bin\Debug\net6.0\CwkSocial.Dal.pdb
+C:\Users\Ratul\Desktop\CwkSocial-main\CwkSocial-main\CwkSocial\CwkSocial.Application\obj\Debug\net6.0\CwkSocial.Application.csproj.AssemblyReference.cache
+C:\Users\Ratul\Desktop\CwkSocial-main\CwkSocial-main\CwkSocial\CwkSocial.Application\obj\Debug\net6.0\CwkSocial.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ratul\Desktop\CwkSocial-main\CwkSocial-main\CwkSocial\CwkSocial.Application\obj\Debug\net6.0\CwkSocial.Application.AssemblyInfoInputs.cache
+C:\Users\Ratul\Desktop\CwkSocial-main\CwkSocial-main\CwkSocial\CwkSocial.Application\obj\Debug\net6.0\CwkSocial.Application.AssemblyInfo.cs
+C:\Users\Ratul\Desktop\CwkSocial-main\CwkSocial-main\CwkSocial\CwkSocial.Application\obj\Debug\net6.0\CwkSocial.Application.csproj.CoreCompileInputs.cache
+C:\Users\Ratul\Desktop\CwkSocial-main\CwkSocial-main\CwkSocial\CwkSocial.Application\obj\Debug\net6.0\CwkSocial.Application.csproj.CopyComplete
+C:\Users\Ratul\Desktop\CwkSocial-main\CwkSocial-main\CwkSocial\CwkSocial.Application\obj\Debug\net6.0\CwkSocial.Application.dll
+C:\Users\Ratul\Desktop\CwkSocial-main\CwkSocial-main\CwkSocial\CwkSocial.Application\obj\Debug\net6.0\ref\CwkSocial.Application.dll
+C:\Users\Ratul\Desktop\CwkSocial-main\CwkSocial-main\CwkSocial\CwkSocial.Application\obj\Debug\net6.0\CwkSocial.Application.pdb

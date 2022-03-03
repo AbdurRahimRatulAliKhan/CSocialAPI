@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ReY5Q9DbGAOlo0yxJBy2iugH8Cgq9u4mCJ9fwVGLboycNb3Gjb8qf+Tt3kWTzaXJP8c87Bmak6vhEow5qpWGrg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ratul\\Desktop\\CwkSocial-main\\CwkSocial-main\\CwkSocial\\Cwk.Domain\\Cwk.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ratul\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512"
+  ],
+  "logs": []
+}
